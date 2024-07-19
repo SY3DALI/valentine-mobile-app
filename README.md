@@ -1,5 +1,4 @@
-güncelleme21.04.2024->manitadan 1 yıl 1 ay önce ayrıldık uygulamaya gelecek yenilikler yattı gençler
-(ağlama belirtisi)
+bu uygulamanın tek bir sahibi var, o da ben değilim
 # Valentine Mobile App
 
 ![CI/CD](https://github.com/dominicarrojado/hashtag-interactive-valentines-day-card-app/workflows/CI/CD/badge.svg) [![codecov](https://codecov.io/github/dominicarrojado/hashtag-interactive-valentines-day-card-app/branch/develop/graph/badge.svg?token=V5QRH2QTM4)](https://codecov.io/github/dominicarrojado/hashtag-interactive-valentines-day-card-app)
@@ -62,9 +61,9 @@ flutter run --debug
 
 4. Open `randomDate.dart` and change the special days and add meanings.
 
-5. Open `onceFinish.dart` and change the gratitude.
+5. Open `lastPage.dart` and change the gratitude.
 
-6. Open `hahaNotFinish.dart` and change the song that will play in the background.
+6. Open `leave.dart` and change the song that will play in the background.
 
 If you have any concerns or unclear places, please reach me out at enderjua@gmail.com! Wishing you happy returns, a year full of Science, Technology and Flutter! (of course with your loved one by your side.)
 
